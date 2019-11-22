@@ -1,0 +1,6 @@
+{
+    "require": {
+        "simplesoftwareio/simple-qrcode": "^2.0",
+        "laravel/laravel": "^5.8"
+    }
+}
